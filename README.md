@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/16kIdZ5X_6XA5VbrKPAuGXGXNExL1vqUA/view?usp=sharing](https://drive.google.com/file/d/16kIdZ5X_6XA5VbrKPAuGXGXNExL1vqUA/view?usp=sharing)
 
-- ⚡ Fun fact **Mai Hard Core Funny kr deta hu 😂**
+- ⚡ Fun fact **:- Mai Hard Core Funny kr deta hu 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
