@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prince6mehta5" alt="prince6mehta5" /></a> </p>
 
-- 🔭 I’m currently working on **Movie Recommendation System**
+- 🔭 I've completed my project of **Movie Recommendation System**
 
 - 🌱 I’m currently learning **Web Dev | DSA | Machine Learning**
 
